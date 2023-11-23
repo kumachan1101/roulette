@@ -1,0 +1,18 @@
+#container {
+    position: relative;
+}
+
+#myCanvas {
+    border: 1px solid #000;
+    margin: 20px;
+}
+/*
+#myButton {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    width: 150px; 
+    height: 50px; ]
+}  
+
+*/
